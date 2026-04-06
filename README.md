@@ -14,7 +14,7 @@ to guess a hidden word by suggesting one letter at a time.
 
 Make sure you have Python 3 installed, then:
 ```bash
-git clone https://github.com/[yourusername]/word-guessing-game.git
+git clone https://github.com/rawanmismail/word-guessing-game.git
 cd word-guessing-game
 python game.py
 ```
